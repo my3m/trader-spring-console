@@ -1,0 +1,28 @@
+{
+  "PRICING": [
+    {
+      "COUNTRY":"MX",
+      "COMMODITY":"mango",
+      "FIXED_OVERHEAD":"32.00",
+      "VARIABLE_OVERHEAD":"1.24"
+    },
+    {
+      "COUNTRY":"BR",
+      "COMMODITY":"mango",
+      "FIXED_OVERHEAD":"20.00",
+      "VARIABLE_OVERHEAD":"1.42"
+    },
+    {
+      "COUNTRY":"USA",
+      "COMMODITY":"mango",
+      "FIXED_OVERHEAD":"11.00",
+      "VARIABLE_OVERHEAD":"2.42"
+    },
+    {
+      "COUNTRY":"FRANCE",
+      "COMMODITY":"coffee",
+      "FIXED_OVERHEAD":"7.00",
+      "VARIABLE_OVERHEAD":"2.42"
+    }
+  ]
+}

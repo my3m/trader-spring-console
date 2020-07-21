@@ -1,0 +1,2 @@
+app:
+  datasource: 'src/main/resources/data.json'
